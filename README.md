@@ -1,6 +1,8 @@
-I'm Santhosh, A Passionate Web Developer!!
+I'm Santhosh, A Passionate Web Developer🚀🖖🏻
 
-✉santhoshkumars@gmail.com
+⚡ Fun Fact: I'm a MovieBoff.
+
+📬 How to reach me santhoshkumars@gmail.com
 
 
 <!---
