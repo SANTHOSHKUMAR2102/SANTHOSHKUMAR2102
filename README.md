@@ -4,7 +4,7 @@ I'm Santhosh, A Passionate Web Developer🚀🖖🏻
 
 📃 RESUME - https://drive.google.com/file/d/1DyMhhn4I6VKCGempDWcjd_leHhbyfMOv/view?usp=drive_link
 
-📬 How to reach me santhoshkumars@gmail.com
+📬 How to reach me santhoshkumars2102@gmail.com
 
 
 <!---
