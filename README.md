@@ -4,7 +4,7 @@ Frontend Developer working with HTML, CSS, JavaScript, React and TypeScript.
 
 ⚡ Fun Fact: I'm a MovieBoff.
 
-🔗 PORTFOLIO- https://santhoshkumar2102.github.io/developer-portfolio/
+🔗 PORTFOLIO - https://santhoshkumar2102.github.io/developer-portfolio/
 
 📃 RESUME - https://drive.google.com/file/d/1DyMhhn4I6VKCGempDWcjd_leHhbyfMOv/view?usp=drive_link
 
